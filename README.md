@@ -14,10 +14,6 @@ Product description said under 140 characters but more in depth than tl;dr.
 
 <br>
 
-<p align="center">
-	<a href="https://saucelabs.com/u/vuejs"><img src="https://saucelabs.com/browser-matrix/vuejs.svg" alt="Sauce Test Status"></a>
-</p>
-
 
 ## Contents
 
