@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <header>
         <Link to={"/"}>Home</Link>
-        <Link to={"/todos"}>Business Card</Link>
+        <Link to={"/businesscard"}>Business Card</Link>
       </header>
     );
   }
