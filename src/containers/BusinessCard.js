@@ -2,7 +2,11 @@ import React, { Component } from "react";
 
 class BizCard extends Component {
   render() {
-    return <h1>I am the Business Card</h1>;
+    return (
+      <div class="container-bizCard">
+        <h1>I am the Business Card</h1>
+      </div>
+    );
   }
 }
 
